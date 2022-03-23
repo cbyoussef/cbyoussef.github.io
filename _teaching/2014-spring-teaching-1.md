@@ -1,7 +1,7 @@
 ---
 title: "Lecturer"
 collection: teaching
-type: "Undergraduate/Graduate"
+type: "Undergraduate/Graduate courses"
 permalink: /teaching/lecturer
 venue: "Department of French and Italian, University of California, Santa Barbara."
 date: 2016-09-13
