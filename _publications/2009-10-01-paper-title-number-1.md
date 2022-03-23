@@ -1,15 +1,17 @@
 ---
-title: "Paper Title Number 1"
+title: "Code-Switching in Tunisian Arabic: A multifactorial Random Forest Analysis"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2020_CBY-STG_CSTunAR
+excerpt: 'This paper explores the morphosyntactic and cognitive principles influencing code-switching (CS) from Tunisian Arabic to French.'
+date: 2020-03-23
+venue: 'Corpora'
+paperurl: ''
+citation: ''
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+### Abstract
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+This paper explores the morphosyntactic and cognitive principles influencing code-switching (CS) from Tunisian Arabic to French. We annotate data from the TuniCo corpus for many variables and run a Random Forest to overcome the methodological challenges typically associated with low-resource languages and imbalanced data. We find CS is not affected by any factor in isolation, but by a constellation of interactions. Our results partially confirm previous findings: (i) to maintain the code-integrity at the phrase and discourse levels, speakers tend to switch dependent parts-of-speech when the latter’s head is switched; (ii) NPs are a prime location for CS; and (iii) speakers are attuned to the cognitive load they impose on themselves and/or on listeners..
+
+[Download paper here (TBA)](soon)
+
