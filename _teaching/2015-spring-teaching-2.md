@@ -7,7 +7,7 @@ venue: "Department of Linguistics, University of California, Santa Barbara."
 date: 2022-01-01
 location: "Santa Barbara, CA, USA"
 ---
-During my graduate studies, I was a teaching assistant for a total of 13 undergraduate courses and a teaching associate for 2 undergraduate courses. I also occupied the position of teaching/administrative assistant for the department chair.
+During my graduate studies, I was a teaching assistant for a total of 13 undergraduate courses and a teaching associate for 2 undergraduate courses. I also occupied the position of teaching/administrative assistant for the Linguistics department Chair.
 
 Instructor of record
 ======
@@ -48,20 +48,20 @@ Teaching Assistant
 Lab/Administrative TA
 ======
 
-**Chair TA**. 
+**Chair TA**. The position entails assisting the Chair of the department on a variety of pedagogical, administrative and organizational, and research tasks, including:
 
-> The position entails assisting the Chair of the department on a variety of pedagogical, administrative and organizational, and research tasks, including:
-
-> * Pedagogical tasks: Consists in mentoring undergraduate students for a variety of projects and assisting in teaching responsibilities
-  + Mentoring: advising senior undergraduate students.
-  + Teaching: Desinging and maintaining moodle site; coordinating TA team and troubleshooting issues; tracking and retrieving references for graduate and undergraduate classes (articles, chapters, books, videos...); digitizing course material.
-  
+> * Pedagogical tasks: Consist in mentoring undergraduate students for a variety of projects and assisting in teaching responsibilities
+>
+>    + Mentoring: Advising graduating undergraduate students regarding senior theses, graduate school applications, conference talks...
+>    + Teaching: Desinging and maintaining moodle site; coordinating TA team and troubleshooting issues; tracking and retrieving references for graduate and undergraduate classes (articles, >chapters, books, videos...); digitizing course material.
 > * Administrative tasks:
-  + Event organization.
-  + Department purchases.
-  + Staff, faculty and graduates outreach.
-
+>
+>    + Event organization.
+>    + Department purchases.
+>    + Staff, faculty and graduates outreach.
+>
 > * Research tasks:
-  + Reference tracking and retrieving.
-  + Assisting with editing academic publications.
-  + Assisting with a research group.
+>
+>    + Reference tracking and retrieving.
+>    + Assisting with editing academic publications.
+>    + Assisting with a research group.
