@@ -1,12 +1,12 @@
 ---
 title: "Code-Switching in Tunisian Arabic: A multifactorial Random Forest Analysis"
 collection: publications
-permalink: /publication/2020_CBY-STG_CSTunAR
+permalink: /publication/2022_CBY-STG_CSTunAR_Corpora
 excerpt: 'This paper explores the morphosyntactic and cognitive principles influencing code-switching (CS) from Tunisian Arabic to French.'
-date: 2020-03-23
+date: 2022-03-23
 venue: 'Corpora'
-paperurl: ''
-citation: ''
+paperurl: 'TBA'
+citation: 'TBA'
 ---
 
 ### Abstract
