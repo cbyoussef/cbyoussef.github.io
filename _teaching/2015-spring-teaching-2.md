@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assisting/Associate"
+title: "Teaching Assistant/Associate"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/ta_assoc
@@ -7,6 +7,7 @@ venue: "Department of Linguistics, University of California, Santa Barbara."
 date: 2022-01-01
 location: "Santa Barbara, CA, USA"
 ---
+During my graduate studies, I was a teaching assistant for a total of 13 undergraduate courses and a teaching associate for 2 undergraduate courses. I also occupied the position of teaching/administrative assistant for the department chair.
 
 Instructor of record
 ======
@@ -44,11 +45,20 @@ Teaching Assistant
 
 > Overview of language and its role in communities at home and around the world. The diversity and history of languages; their norms, conventions, and written traditions; the role of language in culture and identity; language rights and multilingualism, and the implications of technology for language use.
 
-
-
-
-
-
-
 Lab/Administrative TA
 ======
+
+**Chair TA**. 
+
+> The position entails assisting the Chair of the department on a variety of pedagogical, administrative and organizational, and research tasks, including:
+* Pedagogical tasks: Consists in mentoring undergraduate students for a variety of projects and assisting in teaching responsibilities
+  + Mentoring: advising senior undergraduate students.
+  + Teaching: Desinging and maintaining moodle site; coordinating TA team and troubleshooting issues; tracking and retrieving references for graduate and undergraduate classes (articles, chapters, books, videos...); digitizing course material.
+* Administrative tasks:
+  + Event organization.
+  + Department purchases.
+  + Staff, faculty and graduates outreach.
+* Research tasks:
+  + Reference tracking and retrieving.
+  + Assisting with editing academic publications.
+  + Assisting with a research group.
