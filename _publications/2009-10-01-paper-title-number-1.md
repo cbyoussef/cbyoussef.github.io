@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022_CBY-STG_CSTunAR_Corpora
 excerpt: 'This paper explores the morphosyntactic and cognitive principles influencing code-switching (CS) from Tunisian Arabic to French.'
 date: 2022-03-23
-venue: 'Corpora'
+venue: 'Corpora (accepted)'
 paperurl: 'TBA'
 citation: 'TBA'
 ---
