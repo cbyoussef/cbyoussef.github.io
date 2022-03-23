@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate/Graduate"
 permalink: /teaching/lecturer
 venue: "Department of French and Italian, University of California, Santa Barbara."
-date: 2022-03-23
+date: 2016-09-13
 location: "Santa Barbara, CA, USA"
 ---
 
