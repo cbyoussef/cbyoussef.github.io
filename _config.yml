@@ -11,9 +11,9 @@ title                    : "Chadi Ben Youssef"
 title_separator          : "-"
 name                     : &name "Chadi ben Youssef"
 description              : &description "Personal website"
-url                      : https://chedyling.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://cbyoussef.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "chedyling/chedyling.github.io"
+repository               : "cbyoussef/cbyoussef.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -95,8 +95,7 @@ author:
   dribbble         :
   flickr           :
   facebook         :
-  foursquare       :
-  github           : "chedyling"
+  foursquare       : "cbyoussef"
   google_plus      :
   keybase          :
   instagram        :
