@@ -1,5 +1,5 @@
 ---
-title: "‘I wear combat boots on my tongue’: A multivariate study of stance taking and evaluation in a radical-right radio show"
+title: "‘I wear combat boots on my tongue’: A multivariate study of stance taking and evaluation in a radical-right radio show (in preparation)"
 collection: publications
 permalink: /publication/2022_CBY-AdlF_EvalRadRight_TBA
 excerpt: 'This paper quantitatively explores evaluations and stance expressions in the caller section of The Savage Nation a popular, ultra-conservative radio show.'

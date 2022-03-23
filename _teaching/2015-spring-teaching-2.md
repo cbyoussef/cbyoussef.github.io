@@ -21,6 +21,11 @@ Instructor of record
 
 Teaching Assistant
 ======
+**LING 111**. *Advanced Computational Linguistics*.
+
+> Provides advanced topics in computational linguistics, with an emphasis on statistical natural language processing techniques, co-occurrence methods, and machine learning applied to language.
+
+
 **LING 102**. *Programming for Linguists*.
 
 > Hands-on introduction to programming in Python, with emphasis on methods for retrieving, structuring, and interacting with textual data. Focus on developing practical programming skills and transferable methodology, such as debugging, task decomposition and abstraction, and best practices for documenting and structuring code. Targeted toward students with no programming background.
