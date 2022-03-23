@@ -51,14 +51,17 @@ Lab/Administrative TA
 **Chair TA**. 
 
 > The position entails assisting the Chair of the department on a variety of pedagogical, administrative and organizational, and research tasks, including:
-* Pedagogical tasks: Consists in mentoring undergraduate students for a variety of projects and assisting in teaching responsibilities
+
+> * Pedagogical tasks: Consists in mentoring undergraduate students for a variety of projects and assisting in teaching responsibilities
   + Mentoring: advising senior undergraduate students.
   + Teaching: Desinging and maintaining moodle site; coordinating TA team and troubleshooting issues; tracking and retrieving references for graduate and undergraduate classes (articles, chapters, books, videos...); digitizing course material.
-* Administrative tasks:
+  
+> * Administrative tasks:
   + Event organization.
   + Department purchases.
   + Staff, faculty and graduates outreach.
-* Research tasks:
+
+> * Research tasks:
   + Reference tracking and retrieving.
   + Assisting with editing academic publications.
   + Assisting with a research group.
