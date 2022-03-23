@@ -9,5 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="{{ site.url }}{{ site.baseurl }}/files/CV_EN_Chadi_Ben_Youssef_2022.pdf" width="1000" height="1000" type="application/pdf">
+<embed src="{{ site.url }}{{ site.baseurl }}/files/CV_EN_Chadi_Ben_Youssef_2022.pdf" width="100%" height="100%" type="application/pdf">
 
