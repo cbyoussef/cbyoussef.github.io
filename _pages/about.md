@@ -14,7 +14,7 @@ I'm a PhD student in <a href="https://www.linguistics.ucsb.edu/" target="_blank"
 I'm a linguist that uses computational linguistics, corpus linguistics, and psycholinguistics methodologies to investigate a diverse range of cognitive, structural, and sociocultural questions; with a focus on techniques that allow for the quantitative analysis of low resource languages and imbalanced/sample biased data sets. Currently, I'm contributing to multiple collaborative projects:
 
 * Code-switching (CS) from Tunisian to French in naturally occurring conversations.<sup>*</sup>
-* Critical Discourse Analysis (CDA) of the US radical-right media.<sup>*</sup>
+* Critical Discourse Analysis (CDA) of US radical-right media.<sup>*</sup>
 * Implicit vocabulary learning by adults exposed to a given language in their ambient environment.
 * Bisexuality in Experimental Sociophonetics.
 * Inclusive teaching of computational linguistics to generalist (linguistics) students.
