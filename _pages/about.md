@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Chadi [ˈʃɛdi,; SHE-dee], a PhD student (he/him) in <a href="https://www.linguistics.ucsb.edu/" target="_blank">the Department of Linguistics</a> at the University of California, Santa Barbara. I grew up in 
+I'm Chadi [ˈʃɛdi,; SHE-dee] (he/him), a PhD student  in <a href="https://www.linguistics.ucsb.edu/" target="_blank">the Department of Linguistics</a> at the University of California, Santa Barbara. I grew up in 
 <a href="https://www.google.com/maps/place/Beja,+Tunisia/@36.589459,9.3973874,333067m/data=!3m1!1e3!4m5!3m4!1s0x12fb588073d15b35:0x67e6f1f9d0f178b2!8m2!3d36.7333193!4d9.1843676" target="_blank">باجة Beja, Tunisia</a>, then left rather early to Paris, France, where I --among other things-- started my journey in linguistics research. 
 
 I'm a linguist that uses computational linguistics, corpus linguistics, and psycholinguistics methodologies to investigate a diverse range of cognitive, structural, and sociocultural questions; with a focus on techniques that allow for the quantitative analysis of low resource languages and imbalanced/sample biased data sets. Currently, I'm contributing to multiple collaborative projects:
