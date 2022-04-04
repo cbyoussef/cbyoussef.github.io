@@ -6,7 +6,7 @@ excerpt: 'This paper explores the morphosyntactic and cognitive principles influ
 date: 2023-10-23
 venue: 'Corpora'
 paperurl: 'http://cbyoussef.github.io/files/2023_CBY-STG_CSinTunAr_Corpora.pdf'
-citation: 'Ben Youssef, Chadi & Stefan Th. Gries. (2023). Code-switching in Tunisian Arabic: A multifactorial random forest analysis. Corpora.'
+citation: 'Ben Youssef, Chadi & Stefan Th. Gries. (to appear). Code-switching in Tunisian Arabic: A multifactorial random forest analysis. Corpora.'
 ---
 
 ### Abstract

@@ -5,12 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### To appear
+Ben Youssef, Chadi & Stefan Th. Gries. Code-switching in Tunisian Arabic: A multifactorial random forest analysis. Corpora.
 
-{% include base_path %}
+### In preparation
+Ben Youssef, Chadi & de la Fuente, Antón. 'I wear combat boots on my tongue': A multivariate study of stance taking and evaluation in a radical-right radio show.
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Todd, Simon, Ben Youssef, Chadi & Vasquez Alonso. Non-Spanish Speakers have a Spanish protolexicon?
