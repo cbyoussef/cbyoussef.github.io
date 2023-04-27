@@ -19,7 +19,7 @@ I'm a linguist that uses computational linguistics, corpus linguistics, and psyc
 * Bisexuality in Experimental Sociophonetics.
 * Inclusive teaching of computational linguistics to generalist (linguistics) students.
 
-I obtained my BA in English linguistics, literature, culture and civilization, and my MA in Linguistics from the <a href="https://www.univ-paris8.fr/" target="_blank">Université Paris 8, Vincennes--Saint-Denis</a>. After occupying the position of lecturer in the department of French and Italian at UCSB, I joined the Linguistics department as a PhD student, where I work mainly with <a href="stgries.info/" target="_blank">Stefan Th. Gries</a> and <a href="https://sjtodd.github.io/" target="_blank">Simon Todd</a>.
+I obtained my BA in English linguistics, literature, culture and civilization, and my MA in Linguistics from the <a href="https://www.univ-paris8.fr/" target="_blank">Université Paris 8, Vincennes--Saint-Denis</a>. After occupying the position of lecturer in the department of French and Italian at UCSB, I joined the Linguistics department as a PhD student, where I work mainly with <a href="https://www.stgries.info/" target="_blank">Stefan Th. Gries</a> and <a href="https://sjtodd.github.io/" target="_blank">Simon Todd</a>.
 
 I'm a member of <a href="https://ucsb-cpls-lab.github.io/index.html" target="_blank">Computational Psycholinguistics of Listening and Speaking (CPLS) [site under construction]</a> laboratory at UCSB.
 
