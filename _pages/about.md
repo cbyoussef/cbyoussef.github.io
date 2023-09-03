@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Chadi [ˈʃɛdi; SHE-dee] (he/him), a PhD candidate  in <a href="https://www.linguistics.ucsb.edu/" target="_blank">the Department of Linguistics</a> at the University of California, Santa Barbara. I grew up in 
+I'm Chadi [ˈʃɛdi; SHE-dee], a PhD candidate  in <a href="https://www.linguistics.ucsb.edu/" target="_blank">the Department of Linguistics</a> at the University of California, Santa Barbara. I grew up in 
 <a href="https://en.wikipedia.org/wiki/B%C3%A9ja" target="_blank">باجة Beja, Tunisia</a>, then left rather early to Paris, France, where I --among other things-- started my journey in linguistics research. 
 
 I'm a linguist that uses computational linguistics, corpus linguistics, and psycholinguistics methodologies to investigate a diverse range of cognitive, structural, and sociocultural questions; with a focus on techniques that allow for the quantitative analysis of low resource languages and imbalanced/sample biased data sets. Currently, my dissertation work focuses on Multi-Word Expressions (MWE), using corpus linguistics informed measures and <a href="https://julialang.org/" target="_blank">the Julia programming language</a>.
