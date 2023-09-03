@@ -11,9 +11,19 @@ During my graduate studies, I was a teaching assistant for a total of 13 undergr
 
 Instructor of record
 ======
+**LING 102**. *Programming for Linguists*.
+
+> Hands-on introduction to programming in Python, with emphasis on methods for retrieving, structuring, and interacting with textual data. Focus on developing practical programming skills and transferable methodology, such as debugging, task decomposition and abstraction, and best practices for documenting and structuring code. Targeted toward students with no programming background.
+
+
 **LING 110**. *Foundations of Computational Linguistics*.
 
 > An introduction to foundational ideas in computational linguistics, such as: n-gram language models; noisy channel models; supervised and unsupervised learning; and distributional semantics. Focus on developing an understanding of the intuitions behind the ideas, including relevant algorithms and math, and implementing this understanding in hands-on programming applications.
+
+**LING 180**. *Language, Race, and Ethnicity*.
+
+> Linguistic practices of major ethnoracial groups in the United States, including African Americans, Asian Americans, European Americans, Latinxs, and Native Americans; examination of the linguistic effects of immigration and colonialism; bilingualism, translanguaging, language shift, and heritage language learning; linguistic interaction and contact between ethnoracial groups; language as a resource for ethnoracial identity; linguistic racism; linguistic activism. 
+
 
 **FR 4**. *Intermediate French*.
 
