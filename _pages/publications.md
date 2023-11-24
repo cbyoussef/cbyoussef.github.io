@@ -12,5 +12,5 @@ Simon Todd, Chadi Ben Youssef & Alonso Vásquez-Aguilar (2023). Language Structu
 Chloe Willis & Chadi Ben Youssef (2023). Random bisexual forests: Intersections between gender, sexuality, and race in /s/ production. *Proceedings of the Linguistic Society of America*, 8(1), pp 5504. [(link)](https://doi.org/10.3765/plsa.v8i1.5504){:target="_blank"}
 
 
-### Under Review
+### Accepted
 Chadi Ben Youssef & Antón de la Fuente. 'I wear combat boots on my tongue': A multivariate study of stance taking and evaluation in a radical-right radio show.
