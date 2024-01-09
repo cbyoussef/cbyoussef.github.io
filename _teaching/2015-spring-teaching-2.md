@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/ta_assoc
 venue: "Department of Linguistics, University of California, Santa Barbara."
-date: 2022-01-01
+date: 2024-01-01
 location: "Santa Barbara, CA, USA"
 ---
 During my graduate studies, I was a teaching assistant for a total of 13 undergraduate courses and a teaching associate for 2 undergraduate courses. I also occupied the position of teaching/administrative assistant for the Linguistics department Chair.
