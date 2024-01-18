@@ -9,8 +9,8 @@ location: "Santa Barbara, CA, USA"
 ---
 **LING 104**. *Statistical methods in linguistics Winter 2024*.
 
-> Section 1 Material
+> Section Material
 
-[//]: <> Section material will be available here soon [section 1][1]
+[Section 2 workbook][1]
 
-[//]: <> [1]:{{ site.url }}{{ site.baseurl }}/files/###.pdf
+[1]:{{ site.url }}{{ site.baseurl }}/files/Section2.Rmd
