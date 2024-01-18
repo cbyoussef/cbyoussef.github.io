@@ -13,4 +13,4 @@ location: "Santa Barbara, CA, USA"
 
 [Section 2 workbook][1]
 
-[1]:{{ site.url }}{{ site.baseurl }}/files/Section2.Rmd
+[1]:{{ site.url }}{{ site.baseurl }}/files/Section2.xyz
